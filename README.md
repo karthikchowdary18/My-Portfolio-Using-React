@@ -4,7 +4,7 @@ This repository contains my personal portfolio website built using the React fra
 
 # Deployment 
 
-https://karthik-portfolio-fbd43.web.app 
+https://karthik-portfolio2.web.app 
 
 you can click over this link to see me portfolio.
 
